@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# GameReadySceneGraphTool
+SampleModels/
+keyword_tagger_out/
+secrets/
+scene_graph_out/
